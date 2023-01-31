@@ -1,0 +1,5 @@
+a) 3 separate x fields have been created (one for each instance of Juttu class)
+b) 3 separate y fields have been created (one for each instance of Juttu class)
+c) 1 z field (its a static variable)
+d) Values of x and y are 0 in each instance of the Juttu class (they are set to the value of the static variable)
+e) asetaJuttu(5); 	:DDDDD

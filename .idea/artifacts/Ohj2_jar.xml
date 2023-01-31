@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Ohj2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Ohj2_jar</output-path>
+    <root id="archive" name="Ohj2.jar">
+      <element id="module-output" name="Ohj2" />
+    </root>
+  </artifact>
+</component>
