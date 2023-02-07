@@ -60,7 +60,7 @@ class Essee extends T4 {
 
     @Override
     public int getArvosana() {
-        double pisteet = (this.kielioppi / 30 * 100) + (this.oikeinkirjoitus / 20 * 100) + (this.pituus / 20 * 100) + (this.sisalto / 30 * 100);
+        double pisteet = (this.kielioppi) + (this.oikeinkirjoitus) + (this.pituus) + (this.sisalto);
         super.setPisteet(pisteet);
         return super.getArvosana();
     }
